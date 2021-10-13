@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RockZombie123
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on ...
+<!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: rockzombie005@gmail.com
 
 <!---
